@@ -3,7 +3,7 @@
   <i>probably drinking coffee and pushing a commit at the same time</i>
 </p>
 
-<h2>About Me:</h2><br>
+<h2>About Me:</h2>
 -📍 based in your-city, working odd hours by choice<br>-🌱 currently tinkering with Nextjs<br>-🎧 Music junkie, coding just hits different with a good playlist on<br>-🌙 night owl — my best commits happen after 11pm<br>-⚡ fun fact: I code, therefore I am. 
 
 <h2>Tech Stack:</h2> 
