@@ -1,4 +1,4 @@
-##Hey, i'm Lwazi 👋
+<h2 align="center">Hey, I'm Lwazi 👋</h2>
 <p align="center">
   <i>probably drinking coffee and pushing a commit at the same time</i>
 </p>
