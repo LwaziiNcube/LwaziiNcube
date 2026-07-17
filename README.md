@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Lwazi 👋</h2>
 <p align="center">
-  <i>probably drinking coffee and pushing a commit at the same time</i>
+  <i>passionate about building things that (mostly) work</i>
 </p>
 
 <h2>About Me:</h2>
